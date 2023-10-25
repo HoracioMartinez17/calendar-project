@@ -34,7 +34,7 @@ Follow these steps to run the Web Calendar App on your local machine:
 
 1. Clone the repository to your local system:
 ```bash
-git clone https://github.com/kevinpolonia/calendar-proyect.git
+git clone https://github.com/HoracioMartinez17/calendar-project.git
 ```
 
 
